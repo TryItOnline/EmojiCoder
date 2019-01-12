@@ -1,6 +1,6 @@
 # EmojiCoder
 
-*The materials in this repository were not produced by its owner. The original source code is [here][EmojiCoder interpreter], adapted to run on node.js by [jimmy23013].*
+*The materials in this repository were not produced by its owner. The original source code is [here][EmojiCoder interpreter], adapted for node.js by [jimmy23013].*
 
 EmojiCoder is a recreational programming language. For further information, please visit its [Esolang article].
 
